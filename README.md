@@ -13,6 +13,8 @@
 ## Scenario
 During Summer 2019 NBA superstar LeBron James posted an Instagram story of him and his family enjoying tacos and following the Mexican tradition of eating tacos on tuesdays. The video went viral and for the entire summer every tuesday a new video of him would be posted, thus creating a new tradition for LeBron and his family. The purpose of this project is to analyse the relationship of LeBron and tacos and how it translates to his performances in NBA games.
 
-## The viral video : <iframe width="560" height="315" src="https://www.youtube.com/embed/UFOHYRZAu3I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+#### The viral video 
+
+https://www.youtube.com/watch?v=UFOHYRZAu3I
 
 ## Data Preparation
