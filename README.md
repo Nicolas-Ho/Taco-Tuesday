@@ -18,3 +18,23 @@ During Summer 2019 NBA superstar LeBron James posted an Instagram story of him a
 https://www.youtube.com/watch?v=UFOHYRZAu3I
 
 ## Data Preparation
+
+To conduct this analysis I needed two different dataset : all in game statistics from LeBron since the start of his Taco Tuesday tradition and the number of Taco Bells in NBA cities, the leading Taco restaurant chain in the US.
+
+To gather all the data from LeBron's games from 2019 to 2023 I used the website https://www.basketball-reference.com/ which is renown for its quality. I pulled all his stats for the 4 NBA seasons since 2019 and merged all the data by using SQL queries.
+
+For the taco bell locations I used the official website https://locations.tacobell.com/index.html and pulled the data for all 30 NBA cities. I then cleaned it and prepared it for Tableau by adding a few necessary columns.
+
+## Analysis
+
+
+-  [2019-2023 Performance](#2019-2023-performance)
+-  [Performance on tuesdays](#tuesday-performance)
+-  [LeBron and Taco restaurants](#lebron-taco)
+-  [Summary](#summary)
+
+
+### 2019-2023 Performance
+
+d
+
