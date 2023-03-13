@@ -36,11 +36,11 @@ For the taco bell locations I used the official website https://locations.tacobe
 
 ### 2019-2023 Performance
 
+![My Image](Tuesday_Performance.png)
+
 ![My Image](Taco_Map.png)
 
 ![My Image](Taco_performance.png)
-
-![My Image](Tuesday_Performance.png)
 
 ![My Image](GS_Taco.png)
 
