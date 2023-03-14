@@ -29,19 +29,35 @@ For the taco bell locations I used the official website https://locations.tacobe
 
 
 -  [2019-2023 Performance](#2019-2023-performance)
--  [Performance on tuesdays](#tuesday-performance)
--  [LeBron and Taco restaurants](#lebron-taco)
--  [Summary](#summary)
+-  [Performance on Tuesdays](#tuesday-performance)
+-  [LeBron and Taco Restaurants](#lebron-taco)
+-  [Final Thoughts](#final-thoughts)
 
 
 ### 2019-2023 Performance
 
+To better vizualize what a "normal" LeBron performance looked like I created a Tableau dashboard presenting some data about his statistics since 2019. I used Figma to create the background layout.
+
+Here it is again : 
+
+#### <div class='tableauPlaceholder' id='viz1678736292296' style='position: relative'><noscript><a href='#'><img alt='LeBron 2019-2023 Overview ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JT&#47;JTTC2KJCP&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;JTTC2KJCP' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;JT&#47;JTTC2KJCP&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /></object></div>
+
+On the 4 top boxes are presented his game average in all 3 main stats : Points, Assists and Rebound. For the sake of clarity I did not include more advanced stat like field goal percentage and chose to instead include the game score stat, which is a compounded score wich takes into account statistics such as steal and blocks.
+
+The dashboard is interactive so you can filter it by year. I also included a summary of his top scoring performances against each of the other 29 NBA teams. 
+
+### Performance on Tuesdays
+
 ![My Image](Tuesday_Performance.png)
+
+### LeBron and Taco Restaurants
 
 ![My Image](Taco_Map.png)
 
 ![My Image](Taco_performance.png)
 
 ![My Image](GS_Taco.png)
+
+### Final Thoughts
 
 
