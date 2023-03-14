@@ -73,7 +73,7 @@ For 2022 and 2023 the data evens out between tuesdays and the rest of the week.
 
 ![My Image](Taco_Map.png)
 
-Here is a custom made map vizualization of Taco Bells, the reference of taco restaurant, in all cities doted of an NBA team. On the map the bigger the taco means the more Taco Bells the city contains. You can pass your move on each of the tacos icon to get the exact number per city.
+Here is a custom made map vizualization of Taco Bells, the reference of taco restaurant, in all cities doted of an NBA team. On the map the bigger the taco means the more Taco Bells the city contains. On Tableau you can pass your mouse on each of the tacos icon to get the exact number per city.
 
 ![My Image](Taco_performance.png)
 
