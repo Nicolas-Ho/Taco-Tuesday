@@ -62,9 +62,13 @@ The above graph is filtered for the year 2019. We can notice a huge decrease in 
 This one if filtered for the year 2020 and 2021, we can see that on these two years on the contrary the production of LeBron is way higher on tuesdays.
 For 2022 and 2023 the data evens out between tuesdays and the rest of the week.
 
-Maybe this could be explained by the fact that on the first year of his new Taco Tuesday tradition LeBron was too eager to go back home on tuesdays and had his head too full of taco thoughts to perform as he should. ¯\_(ツ)_/¯ 
-Management must have taken a notice and filed a complaint forbidding him to celebrate taco tuesday on the following year unless he produced way better in-game performances which would explain his amazing stats on tuesdays for the year 2020 and 2021, LeBron would have then been fueled by his love of taco.
-Then the taco tuesday gets forgotten with time wich explains the normalization of his stats between tuesday and other days of the week.
+**Hypothesis ** 
+
+#### Maybe this could be explained by the fact that on the first year of his new Taco Tuesday tradition LeBron was too eager to go back home on tuesdays and had his head too full of taco thoughts to perform as he should. ¯\_(ツ)_/¯ 
+
+#### Management must have taken a notice and filed a complaint forbidding him to celebrate taco tuesday on the following year unless he produced way better in-game performances which would explain his amazing stats on tuesdays for the year 2020 and 2021, LeBron would have then been fueled by his love of taco.
+
+####Then the taco tuesday gets forgotten with time wich explains the normalization of his stats between tuesday and other days of the week.
 
 ### LeBron and Taco Restaurants
 
