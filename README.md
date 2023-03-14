@@ -40,7 +40,7 @@ To better vizualize what a "normal" LeBron performance looked like I created a T
 
 Here it is again : 
 
-![My Image](LeBron_2019-2023_Overview.png)
+![My Image](LeBron_Overview.png)
 
 
 On the 4 top boxes are presented his game average in all 3 main stats : Points, Assists and Rebound. For the sake of clarity I did not include more advanced stat like field goal percentage and chose to instead include the game score stat, which is a compounded score wich takes into account statistics such as steal and blocks.
@@ -62,26 +62,31 @@ The above graph is filtered for the year 2019. We can notice a huge decrease in 
 This one if filtered for the year 2020 and 2021, we can see that on these two years on the contrary the production of LeBron is way higher on tuesdays.
 For 2022 and 2023 the data evens out between tuesdays and the rest of the week.
 
-**Hypothesis ** 
 
-#### Maybe this could be explained by the fact that on the first year of his new Taco Tuesday tradition LeBron was too eager to go back home on tuesdays and had his head too full of taco thoughts to perform as he should. ¯\_(ツ)_/¯ 
+#### Hypothesis : Maybe this could be explained by the fact that on the first year of his new Taco Tuesday tradition LeBron was too eager to go back home on tuesdays and had his head too full of taco thoughts to perform as he should. ¯\_(ツ)_/¯ 
 
 #### Management must have taken a notice and filed a complaint forbidding him to celebrate taco tuesday on the following year unless he produced way better in-game performances which would explain his amazing stats on tuesdays for the year 2020 and 2021, LeBron would have then been fueled by his love of taco.
 
-####Then the taco tuesday gets forgotten with time wich explains the normalization of his stats between tuesday and other days of the week.
+#### Then the taco tuesday gets forgotten with time wich explains the normalization of his stats between tuesday and other days of the week.
 
 ### LeBron and Taco Restaurants
 
 ![My Image](Taco_Map.png)
 
-I then created a map vizualization of Taco Bells, the reference of taco restaurant, in all cities doted of an NBA team. On the map the bigger the taco means the more Taco Bells the city contains. You can pass your move on each of the tacos icon to get the exact number per city.
+Here is a custom made map vizualization of Taco Bells, the reference of taco restaurant, in all cities doted of an NBA team. On the map the bigger the taco means the more Taco Bells the city contains. You can pass your move on each of the tacos icon to get the exact number per city.
 
 ![My Image](Taco_performance.png)
 
-To 
+This graph is made to show how the number of taco bells in an NBA city translates to Lebron's performance in said city.
+
+I divided the NBA cities in four categories to see things under a better light : cities with fewer than 10 Taco Bells, between 10 and 20, between 21 and 30 and finally more than 30.
+
+As we can see he performs best when there isn't too many taco bells, with a peak for cities doted of between 10 and 20 Taco Bells location.
 
 ![My Image](GS_Taco.png)
 
+This graph is a scatter plot of LeBron's game score stat crossed with the number of taco bells in city he plays in. This corroborate the first graph and the trend line indeed shows a decrease in performance when there is too many Tacos options around LeBron !
+
 ### Final Thoughts
 
-
+Thanks for reading this little project of mine. I familiarized myself with a lot of Tableau features along the way and I hope this can serve as a little showcase of it.
