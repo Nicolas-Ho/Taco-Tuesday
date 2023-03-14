@@ -6,7 +6,7 @@
 
 ##### Disclaimer : This project is only to be taken as a mean of showcasing some Tableau skills through the representation and analysis of LeBron James's relationship with Tacos. The analysis is not to be taken too seriously as it integrates low sample size for some of the data and willingly ignore a lot of factors that could explain the variations in LeBron's performances. 
 
-##### [Tableau Dashboard](https://public.tableau.com/shared/JTTC2KJCP?:display_count=n&:origin=viz_share_link)
+##### [Tableau Dashboard Link](https://public.tableau.com/shared/JTTC2KJCP?:display_count=n&:origin=viz_share_link)
 
 ![My Image](LeBron_Overview.png)          
 
@@ -29,8 +29,8 @@ For the taco bell locations I used the official website https://locations.tacobe
 
 
 -  [2019-2023 Performance](#2019-2023-performance)
--  [Performance on Tuesdays](#tuesday-performance)
--  [LeBron and Taco Restaurants](#lebron-taco)
+-  [Performance on Tuesdays](#performance-on-tuesdays)
+-  [LeBron and Taco Restaurants](#lebron-and-taco-restaurants)
 -  [Final Thoughts](#final-thoughts)
 
 
