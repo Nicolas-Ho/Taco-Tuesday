@@ -89,4 +89,4 @@ This graph is a scatter plot of LeBron's game score stat crossed with the number
 
 ### Final Thoughts
 
-Thanks for reading this little project of mine. I familiarized myself with a lot of Tableau features along the way and I hope this can serve as a little showcase of it.
+Thanks for reading this little project of mine. I familiarized myself with a lot of Tableau features along the way and I hope this can serve as a showcase of it.
